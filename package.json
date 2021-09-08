@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test:unit": "react-scripts test ./tests/cypress",
+    "test:unit": "react-scripts test",
     "test:e2e": "cypress run",
     "eject": "react-scripts eject"
   },
